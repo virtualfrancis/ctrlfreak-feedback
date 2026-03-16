@@ -25,6 +25,10 @@ Please include:
 | Uptime Kuma | Public status page (any slug) |
 | Dell iDRAC | iDRAC8 via Redfish API, Basic auth |
 | SSH | Password auth, any Linux host |
+| Pi-hole | Query stats and blocking status |
+| Tailscale | Device list via Tailscale API |
+| Unraid | NAS status and disk health |
+| Nginx Proxy Manager | Proxy hosts and SSL certificate status |
 
 ## Privacy Policy
 
